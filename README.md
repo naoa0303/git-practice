@@ -9,3 +9,4 @@ rebase-practiceブランチで更新（リベース用）
 rebase-practiceブランチで更新（コンフリクト用）
 リベースpull用
 スタッシュ練習
+スタッシュ練習（トラック済ぶん）
